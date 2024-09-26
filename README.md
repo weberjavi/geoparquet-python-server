@@ -72,18 +72,7 @@ This project implements a tile server that serves GeoParquet data based on tile 
 - The server uses caching to improve performance for repeated requests.
 - For large datasets, consider implementing additional optimizations such as pre-filtering or creating spatial indexes.
 
-## Contributing
 
-Contributions to improve the GeoParquet Tile Server are welcome. Please feel free to submit issues or pull requests.
-
-## License
-
-[Insert your chosen license here]
-
-## Contact
-
-[Your Name or Organization]
-[Contact Information]
 
 ---
 
