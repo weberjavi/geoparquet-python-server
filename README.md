@@ -28,8 +28,8 @@ This project implements a tile server that serves GeoParquet data based on tile 
 
 2. Create a virtual environment (optional but recommended):
    ```
-   python -m venv venv
-   source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
+   python -m venv geostuff
+   source geostuff/bin/activate  # On Windows, use `venv\Scripts\activate`
    ```
 
 3. Install the required packages:
