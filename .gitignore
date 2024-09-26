@@ -1,0 +1,9 @@
+/parquet
+/shapefiles
+/lib
+/include
+/bin
+/build
+/dist
+/__pycache__
+.DS_Store
